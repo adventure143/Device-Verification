@@ -1,1 +1,20 @@
-
+{
+  "devices": [
+    {
+      "device_id": "1234567890ABCDEF",
+      "username": "testuser",
+      "password": "pass123",
+      "expire_date": "2025-12-31",
+      "offline_allowed": true,
+      "feature_enabled": true
+    },
+    {
+      "device_id": "ABCDEF1234567890",
+      "username": "demo",
+      "password": "demo123",
+      "expire_date": "2026-01-15",
+      "offline_allowed": false,
+      "feature_enabled": false
+    }
+  ]
+}
